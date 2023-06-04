@@ -1,4 +1,5 @@
-1. Step 1 = order the pizza
-2. Pay 
-3. Wait 
-4. Enjoy
+Decide which toppings to add
+Order and pay for the pizza
+Wait 20 minutes
+Pick up the pizza
+Eat and Enjoy
